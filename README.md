@@ -106,4 +106,4 @@ Contributions are welcome—new notebooks, fixes, or improvements.
 * Built with **LangGraph** + **LangChain**.
 * Works with your choice of LLM provider (OpenAI, Groq, etc.).
 
-> If this repo helps you, consider starring it and opening an issue with topics you’d like covered next (function calling, tools, graph persistence backends, multi‑agent orchestration, etc.).
+> If this repo helps you, consider starring it, follow and opening an issue with topics you’d like covered next (function calling, tools, graph persistence backends, multi‑agent orchestration, etc.).
